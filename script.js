@@ -1,4 +1,3 @@
-
 // querySelectors
 var inputText = document.querySelector('.text-input');
 var buttonTranslate = document.querySelector(".btn-translate");
@@ -38,4 +37,3 @@ buttonTranslate.addEventListener('click', clickEventHandler)
 
 // Conclusion: querySelector select the first element from HTML
 // click event what it does is when click happens it triggers a funciton call. call back funciton
-
